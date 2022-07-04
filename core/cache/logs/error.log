@@ -1,0 +1,80 @@
+[2022-06-30 12:37:56] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 12:39:49] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 12:40:18] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, category ASC' at line 1
+)
+
+[2022-06-30 12:44:52] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, category ASC' at line 1
+)
+
+[2022-06-30 12:44:58] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 12:45:08] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 12:46:08] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC, category ASC' at line 1
+)
+
+[2022-06-30 12:47:08] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 13:05:03] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
+[2022-06-30 14:31:23] (ERROR @ /var/www/nginxsite/core/xpdo/om/xpdoobject.class.php : 240) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ASC' at line 1
+)
+
